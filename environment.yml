@@ -1,0 +1,22 @@
+name: collagen-des 
+channels: 
+  - conda-forge 
+  - defaults 
+dependencies: 
+  - python=3.11 
+  - pandas 
+  - numpy 
+  - scikit-learn 
+  - tensorflow=2.16 
+  - rdkit=2024.09.1 
+  - jupyter 
+  - matplotlib 
+  - seaborn 
+  - shap 
+  - xgboost 
+  - openpyxl 
+  - tqdm 
+  - pip 
+  - pip: 
+    - molvs 
+    - biopython 
