@@ -1,0 +1,825 @@
+DES,molar_ratio,temperature_C,water_percent,TPSA,LogP,HBD,yield_percent
+ChCl-ZnCl2,1.7,58,12,85.2,-0.45,3,84.7
+ChCl-ZnCl2,1.7,55,10,85.1,-0.44,3,84.2
+ChCl-SnCl2,1.6,60,15,88.3,-0.51,3,83.9
+ChCl-Urea,2.0,65,20,72.1,0.12,4,72.1
+Betaine-Glycerol,2.0,50,18,95.4,0.33,5,68.4
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-1,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-1,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-2,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-2,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-3,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-3,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-4,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-4,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-5,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-5,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-6,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-6,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-7,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-7,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-8,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-8,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-9,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-9,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-10,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-10,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-11,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-11,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-12,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-12,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-13,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-13,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-14,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-14,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-15,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-15,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-16,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-16,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-17,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-17,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-18,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-18,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-19,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-19,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-20,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-20,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-21,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-21,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-22,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-22,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-23,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-23,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-24,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-24,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-25,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-25,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-26,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-26,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-27,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-27,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-28,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-28,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-29,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-29,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-30,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-30,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-31,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-31,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-32,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-32,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-33,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-33,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-34,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-34,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-35,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-35,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-36,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-36,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-37,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-37,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-38,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-38,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-39,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-39,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-40,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-40,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-41,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-41,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-42,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-42,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-43,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-43,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-44,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-44,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-45,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-45,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-46,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-46,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-47,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-47,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-48,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-48,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-49,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-49,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-50,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-50,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-51,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-51,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-52,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-52,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-53,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-53,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-54,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-54,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-55,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-55,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-56,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-56,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-57,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-57,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-58,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-58,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-59,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-59,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-60,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-60,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-61,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-61,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-62,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-62,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-63,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-63,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-64,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-64,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-65,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-65,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-66,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-66,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-67,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-67,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-68,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-68,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-69,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-69,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-70,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-70,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-71,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-71,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-72,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-72,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-73,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-73,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-74,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-74,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-75,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-75,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-76,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-76,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-77,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-77,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-78,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-78,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-79,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-79,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-80,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-80,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-81,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-81,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-82,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-82,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-83,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-83,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-84,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-84,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-85,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-85,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-86,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-86,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-87,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-87,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-88,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-88,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-89,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-89,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-90,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-90,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-91,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-91,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-92,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-92,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-93,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-93,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-94,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-94,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-95,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-95,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-96,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-96,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-97,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-97,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-98,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-98,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-99,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-99,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-100,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-100,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-101,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-101,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-102,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-102,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-103,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-103,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-104,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-104,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-105,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-105,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-106,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-106,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-107,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-107,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-108,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-108,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-109,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-109,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-110,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-110,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-111,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-111,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-112,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-112,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-113,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-113,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-114,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-114,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-115,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-115,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-116,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-116,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-117,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-117,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-118,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-118,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-119,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-119,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-120,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-120,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-121,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-121,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-122,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-122,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-123,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-123,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-124,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-124,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-125,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-125,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-126,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-126,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-127,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-127,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-128,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-128,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-129,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-129,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-130,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-130,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-131,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-131,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-132,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-132,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-133,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-133,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-134,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-134,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-135,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-135,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-136,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-136,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-137,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-137,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-138,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-138,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-139,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-139,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-140,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-140,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-141,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-141,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-142,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-142,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-143,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-143,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-144,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-144,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-145,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-145,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-146,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-146,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-147,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-147,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-148,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-148,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-149,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-149,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-150,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-150,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-151,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-151,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-152,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-152,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-153,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-153,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-154,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-154,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-155,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-155,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-156,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-156,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-157,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-157,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-158,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-158,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-159,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-159,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-160,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-160,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-161,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-161,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-162,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-162,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-163,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-163,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-164,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-164,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-165,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-165,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-166,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-166,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-167,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-167,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-168,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-168,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-169,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-169,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-170,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-170,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-171,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-171,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-172,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-172,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-173,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-173,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-174,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-174,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-175,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-175,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-176,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-176,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-177,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-177,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-178,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-178,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-179,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-179,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-180,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-180,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-181,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-181,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-182,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-182,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-183,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-183,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-184,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-184,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-185,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-185,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-186,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-186,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-187,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-187,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-188,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-188,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-189,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-189,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-190,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-190,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-191,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-191,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-192,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-192,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-193,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-193,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-194,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-194,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-195,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-195,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-196,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-196,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-197,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-197,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-198,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-198,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-199,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-199,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-200,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-200,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-201,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-201,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-202,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-202,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-203,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-203,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-204,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-204,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-205,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-205,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-206,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-206,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-207,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-207,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-208,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-208,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-209,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-209,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-210,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-210,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-211,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-211,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-212,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-212,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-213,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-213,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-214,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-214,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-215,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-215,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-216,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-216,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-217,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-217,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-218,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-218,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-219,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-219,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-220,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-220,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-221,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-221,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-222,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-222,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-223,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-223,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-224,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-224,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-225,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-225,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-226,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-226,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-227,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-227,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-228,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-228,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-229,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-229,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-230,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-230,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-231,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-231,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-232,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-232,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-233,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-233,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-234,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-234,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-235,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-235,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-236,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-236,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-237,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-237,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-238,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-238,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-239,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-239,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-240,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-240,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-241,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-241,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-242,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-242,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-243,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-243,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-244,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-244,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-245,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-245,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-246,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-246,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-247,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-247,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-248,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-248,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-249,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-249,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-250,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-250,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-251,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-251,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-252,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-252,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-253,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-253,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-254,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-254,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-255,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-255,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-256,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-256,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-257,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-257,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-258,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-258,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-259,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-259,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-260,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-260,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-261,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-261,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-262,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-262,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-263,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-263,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-264,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-264,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-265,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-265,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-266,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-266,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-267,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-267,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-268,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-268,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-269,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-269,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-270,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-270,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-271,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-271,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-272,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-272,1.5,55,15,80.0,-0.3,3,70.5
+
+C:\Users\segwa\Collagen-DES-ML-Optimization>echo Synthetic-DES-273,1.5,55,15,80.0,-0.3,3,70.5 
+Synthetic-DES-273,1.5,55,15,80.0,-0.3,3,70.5
