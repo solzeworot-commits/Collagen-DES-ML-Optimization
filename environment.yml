@@ -1,0 +1,16 @@
+name: collagen-des
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit=2024.09.1
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - scikit-learn
+  - tensorflow
+  - xgboost
+  - shap
+  - openpyxl
