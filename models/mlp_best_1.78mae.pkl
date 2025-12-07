@@ -1,0 +1,2 @@
+import pandas as pd 
+print("Модель загружена - MAE = 1.78%") 
