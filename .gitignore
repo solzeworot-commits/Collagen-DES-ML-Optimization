@@ -1,12 +1,4 @@
-# Базовые игноры для Python (не трогаем ваши папки!)
-__pycache__/
+pycache/
 *.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.env
-.venv
-.ipynb_checkpoints/
-*.log
+.DS_Store
+Thumbs.db

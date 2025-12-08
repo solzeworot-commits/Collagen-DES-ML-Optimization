@@ -1,36 +1,31 @@
-# Официальный Miniforge от conda-forge — идеально для RDKit + ML в 2025–2026
-FROM condaforge/miniforge3:latest
+# Dockerfile для диссертации: RDKit + EMBOSS (IPC2 добавим вручную, декабрь 2025)
+FROM continuumio/miniconda3:latest
 
-# Создаём чистое окружение для проекта
-RUN conda create -n collagen-des python=3.11 -y && \
-    conda clean --all -y
+LABEL maintainer="Zaynab Odilova <z.odilova@stgau.ru>"
+LABEL description="Воспроизводимая среда для дескрипторов коллагена и pI (спец. 4.3.5)"
 
-# Активируем окружение по умолчанию
-ENV PATH /opt/conda/envs/collagen-des/bin:$PATH
-SHELL ["/bin/bash", "-c"]
+# 1. Настраиваем каналы conda
+RUN conda config --add channels defaults && \
+    conda config --add channels bioconda && \
+    conda config --add channels conda-forge && \
+    conda config --set channel_priority strict
 
-# Устанавливаем все пакеты через conda (RDKit, TensorFlow, SHAP и т.д.)
-RUN conda install -c conda-forge -n collagen-des \
+# 2. Создаём окружение с Python 3.11 и всеми пакетами
+RUN conda create -n collagen python=3.11 -y && \
+    conda install -n collagen -y \
+        rdkit=2024.09.5 \
         pandas \
-        numpy \
-        scikit-learn \
-        tensorflow \
-        rdkit=2024.09.1 \
-        matplotlib \
-        seaborn \
-        shap \
-        xgboost \
-        jupyter \
         openpyxl \
-        tqdm \
-        biopython \
-        pip -y && \
-    conda clean --all -y && \
-    /opt/conda/envs/collagen-des/bin/pip install molvs
+        biopython=1.84 \
+        molvs \
+        emboss=6.6.0 \
+    && conda clean --all
 
-WORKDIR /app
-COPY . .
+# 3. Рабочая папка проекта
+WORKDIR /project
+COPY . /project
 
-ENV PYTHONUNBUFFERED=1
+# 4. Активация окружения при запуске
+SHELL ["conda", "run", "-n", "collagen", "/bin/bash", "-c"]
 
-CMD ["bash"]
+CMD ["/bin/bash"]
